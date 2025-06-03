@@ -13,4 +13,3 @@ A **floresta** é um ecossistema terrestre caracterizado pela predominância de 
 
 
 
-*Arquivo criado para fins educacionais e de conscientização ambiental.*
