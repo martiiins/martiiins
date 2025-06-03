@@ -1,16 +1,16 @@
-## Hi there 👋
+#sou Gabriella!
 
-<!--
-**martiiins/martiiins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#sobre eu 
+gosto de 
+# Florestas
 
-Here are some ideas to get you started:
+## Introdução
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+A **floresta** é um ecossistema terrestre caracterizado pela predominância de árvores e uma grande diversidade de espécies vegetais e animais. As florestas desempenham um papel fundamental no equilíbrio ambiental do planeta, influenciando o clima, a qualidade do ar e a conservação da biodiversidade.
+
+#Tenho 15 anos!
+
+
+
+
+*Arquivo criado para fins educacionais e de conscientização ambiental.*
